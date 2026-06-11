@@ -6,6 +6,13 @@ A curated list of awesome AI tools and applications. Visit [https://www.aitoolli
 
 Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
 
+# NeuroNest AI Software Engineering Platform
+
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI software engineering platform that helps developers manage coding tasks, improve code quality, and speed up project delivery. With AI agents for development, debugging, testing, security, automation, and research, NeuroNest supports a more structured and efficient workflow for building modern software products.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
 ## Contents
 - [Chat & Text](#chat--text)
 - [Image & Art](#image--art)
